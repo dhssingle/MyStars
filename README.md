@@ -25,5 +25,6 @@
 [VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller)<br>
 [ILSpy](https://github.com/icsharpcode/ILSpy)<br>
 [XX-Net](https://github.com/XX-net/XX-Net)<br>
+[Lantern](https://github.com/getlantern/lantern)<br>
 
 
