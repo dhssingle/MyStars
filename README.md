@@ -1,9 +1,7 @@
 ## C#类库
 [RestSharp](https://github.com/restsharp/RestSharp)<br>
-[Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
 [Nancy](https://github.com/NancyFx/Nancy)<br>
 [Lucene.Net ](https://github.com/apache/lucenenet)<br>
-[Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
 [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)<br>
 [Json.NET](https://github.com/JamesNK/Newtonsoft.Json)<br>
 [NLog](https://github.com/NLog/NLog)<br>
@@ -12,7 +10,15 @@
 [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)<br>
 [Awesome.NET](https://github.com/quozd/awesome-dotnet)<br>
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
+###Dapper
+[Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
+[Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
 [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)<br>
+##JavaScript
+[Layer](https://github.com/sentsin/layer)<br>
+[jstree](https://github.com/vakata/jstree)<br>
+[vue](https://github.com/vuejs/vue)<br>
+[bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput)<br>
 ##工具
 [VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller)<br>
 [ILSpy](https://github.com/icsharpcode/ILSpy)<br>
