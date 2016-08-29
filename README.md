@@ -10,7 +10,7 @@
 [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)<br>
 [Awesome.NET](https://github.com/quozd/awesome-dotnet)<br>
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
-[AngleSharp](https://github.com/AngleSharp/AngleSharp)推荐这个<br>
+[AngleSharp](https://github.com/AngleSharp/AngleSharp) 推荐使用<br>
 [CsQuery](https://github.com/jamietre/CsQuery)<br>
 ###Dapper
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
