@@ -10,6 +10,7 @@
 [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)<br>
 [Awesome.NET](https://github.com/quozd/awesome-dotnet)<br>
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
+[AngleSharp](https://github.com/AngleSharp/AngleSharp)<br>
 ###Dapper
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
 [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
