@@ -12,6 +12,7 @@
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
 [AngleSharp](https://github.com/AngleSharp/AngleSharp) 推荐使用<br>
 [CsQuery](https://github.com/jamietre/CsQuery)<br>
+[DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)
 ###Dapper
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
 [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
