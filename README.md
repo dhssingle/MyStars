@@ -10,7 +10,7 @@
 [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)<br>
 [Awesome.NET](https://github.com/quozd/awesome-dotnet)<br>
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
-[AngleSharp](https://github.com/AngleSharp/AngleSharp) 推荐使用<br>
+[AngleSharp](https://github.com/AngleSharp/AngleSharp)<br>
 [CsQuery](https://github.com/jamietre/CsQuery)<br>
 [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)<br>
 [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)<br>
@@ -18,6 +18,10 @@
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
 [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
 [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)<br>
+
+###文档
+[performance-optimization](https://github.com/mspnp/performance-optimization)<br>
+
 ##JavaScript
 [Layer](https://github.com/sentsin/layer)<br>
 [jstree](https://github.com/vakata/jstree)<br>
