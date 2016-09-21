@@ -14,6 +14,7 @@
 [CsQuery](https://github.com/jamietre/CsQuery)<br>
 [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)<br>
 [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)<br>
+[Foundatio](https://github.com/exceptionless/Foundatio)
 ###Dapper
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
 [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
