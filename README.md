@@ -15,7 +15,7 @@
 [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)<br>
 [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)<br>
 [Foundatio](https://github.com/exceptionless/Foundatio)  
-[StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)
+[StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)  
 [Autofac](https://github.com/autofac/Autofac)
 ###Dapper
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
