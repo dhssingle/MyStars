@@ -5,7 +5,7 @@
 [Json.NET](https://github.com/JamesNK/Newtonsoft.Json)<br>
 [NLog](https://github.com/NLog/NLog)<br>
 [Quartz.Net](https://github.com/quartznet/quartznet)<br>
-[ExcelDataReader](://github.com/ExcelDataReader/ExcelDataReader)<br>
+[ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)<br>
 [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)<br>
 [Awesome.NET](https://github.com/quozd/awesome-dotnet)<br>
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
@@ -35,9 +35,12 @@
 [jstree](https://github.com/vakata/jstree)<br>
 [vue](https://github.com/vuejs/vue)<br>
 [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput)<br>
+### Angular 2
 [Angular 2](https://github.com/angular/angular)<br>
 [Angular Material](https://github.com/angular/material)<br>
-[Angular Material 2](https://github.com/angular/material2)
+[Angular Material 2](https://github.com/angular/material2)  
+[Rebirth](https://github.com/greengerong/rebirth)  
+[Awesome Angular 2 ](https://github.com/angular-bbs/awesome-angular2)
 ##工具
 [VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller)<br>
 [ILSpy](https://github.com/icsharpcode/ILSpy)<br>
