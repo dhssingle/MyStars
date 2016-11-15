@@ -17,8 +17,11 @@
 [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)  
 [Autofac](https://github.com/autofac/Autofac)  
 [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET)  
+[]
 
-### Dapper  
+### ORM
+[SqlSugar](https://github.com/sunkaixuan/SqlSugar)  
+#### Dapper  
 [Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
 [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
 [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)<br>
