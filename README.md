@@ -17,7 +17,6 @@
 [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)  
 [Autofac](https://github.com/autofac/Autofac)  
 [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET)  
-[]
 
 ### ORM
 [SqlSugar](https://github.com/sunkaixuan/SqlSugar)  
