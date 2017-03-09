@@ -44,9 +44,9 @@
 * [Angular Material](https://github.com/angular/material)  
 * [Angular Material 2](https://github.com/angular/material2)  
 * [Rebirth](https://github.com/greengerong/rebirth)  
-* [Awesome Angular 2 ](https://github.com/angular-bbs/awesome-angular2)
+* [Awesome Angular 2 ](https://github.com/angular-bbs/awesome-angular2)  
 
-### 工具
+### 工具  
 [VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller)  
 [ILSpy](https://github.com/icsharpcode/ILSpy)  
 [XX-Net](https://github.com/XX-net/XX-Net)  
