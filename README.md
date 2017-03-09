@@ -1,54 +1,57 @@
-## C#类库
-[RestSharp](https://github.com/restsharp/RestSharp)<br>
-[Nancy](https://github.com/NancyFx/Nancy)<br>
-[Lucene.Net ](https://github.com/apache/lucenenet)<br>
-[Json.NET](https://github.com/JamesNK/Newtonsoft.Json)<br>
-[NLog](https://github.com/NLog/NLog)<br>
-[Quartz.Net](https://github.com/quartznet/quartznet)<br>
-[ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)<br>
-[ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)<br>
-[Awesome.NET](https://github.com/quozd/awesome-dotnet)<br>
-[Asp.Net Mvc](https://github.com/aspnet/Mvc)<br>
-[AngleSharp](https://github.com/AngleSharp/AngleSharp)<br>
-[CsQuery](https://github.com/jamietre/CsQuery)<br>
-[DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)<br>
-[ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)<br>
+## C#
+[RestSharp](https://github.com/restsharp/RestSharp)  
+[Nancy](https://github.com/NancyFx/Nancy)  
+[Lucene.Net ](https://github.com/apache/lucenenet)  
+[Json.NET](https://github.com/JamesNK/Newtonsoft.Json)  
+[NLog](https://github.com/NLog/NLog)  
+[Quartz.Net](https://github.com/quartznet/quartznet)  
+[ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)  
+[ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)  
+[Awesome.NET](https://github.com/quozd/awesome-dotnet)  
+[Asp.Net Mvc](https://github.com/aspnet/Mvc)  
+[AngleSharp](https://github.com/AngleSharp/AngleSharp)  
+[CsQuery](https://github.com/jamietre/CsQuery)  
+[DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth)  
+[ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate)  
 [Foundatio](https://github.com/exceptionless/Foundatio)  
 [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)  
 [Autofac](https://github.com/autofac/Autofac)  
 [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET)  
-[AutoMapper](https://github.com/AutoMapper/AutoMapper)
+[AutoMapper](https://github.com/AutoMapper/AutoMapper)  
+[Swashbuckle](https://github.com/domaindrivendev/Swashbuckle)
 
 ### ORM
 [SqlSugar](https://github.com/sunkaixuan/SqlSugar)  
-#### Dapper  
-[Dapper](https://github.com/StackExchange/dapper-dot-net)<br>
-[Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)<br>
-[Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)<br>
+[Dapper](https://github.com/StackExchange/dapper-dot-net)  
+* [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)  
+* [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)  
 
-### .NET UI
+### UI
 [ReactiveUI](https://github.com/reactiveui/ReactiveUI)  
 [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)  
 
 
-### 文档  
-[performance-optimization](https://github.com/mspnp/performance-optimization)<br>
-
-## JavaScript
-[Layer](https://github.com/sentsin/layer)<br>
-[jstree](https://github.com/vakata/jstree)<br>
-[vue](https://github.com/vuejs/vue)<br>
-[bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput)<br>
-### Angular 2
-[Angular 2](https://github.com/angular/angular)<br>
-[Angular Material](https://github.com/angular/material)<br>
-[Angular Material 2](https://github.com/angular/material2)  
-[Rebirth](https://github.com/greengerong/rebirth)  
-[Awesome Angular 2 ](https://github.com/angular-bbs/awesome-angular2)
-## 工具
-[VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller)<br>
-[ILSpy](https://github.com/icsharpcode/ILSpy)<br>
-[XX-Net](https://github.com/XX-net/XX-Net)<br>
-[Lantern](https://github.com/getlantern/lantern)<br>
+### MarkDown  
+[performance-optimization](https://github.com/mspnp/performance-optimization)  
+[Computer-Science-Glossary](https://github.com/JuanitoFatas/Computer-Science-Glossary)  
+[be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  
+### JavaScript
+[Layer](https://github.com/sentsin/layer)  
+[jstree](https://github.com/vakata/jstree)  
+[vue](https://github.com/vuejs/vue)  
+[bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput)  
+[Angular 2](https://github.com/angular/angular)  
+* [Angular Material](https://github.com/angular/material)  
+* [Angular Material 2](https://github.com/angular/material2)  
+* [Rebirth](https://github.com/greengerong/rebirth)  
+* [Awesome Angular 2 ](https://github.com/angular-bbs/awesome-angular2)
+### 工具
+[VisualStudioUninstaller](https://github.com/Microsoft/VisualStudioUninstaller)  
+[ILSpy](https://github.com/icsharpcode/ILSpy)  
+[XX-Net](https://github.com/XX-net/XX-Net)  
+[Lantern](https://github.com/getlantern/lantern)  
 [gitignore](https://github.com/github/gitignore)
+[wsl-terminal](https://github.com/goreliu/wsl-terminal)  
+[Hawk](https://github.com/ferventdesert/Hawk)
+
 
