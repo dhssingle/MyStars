@@ -54,7 +54,12 @@
 [Lantern](https://github.com/getlantern/lantern)  
 [gitignore](https://github.com/github/gitignore)
 [wsl-terminal](https://github.com/goreliu/wsl-terminal)  
-[Hawk](https://github.com/ferventdesert/Hawk)
+[Hawk](https://github.com/ferventdesert/Hawk)  
+
+### Authencation Example
+[AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)  
+[AngularJSAuthentication](https://github.com/attilah/AngularJSAuthentication) `Use MongoDb instead of EF`  
+
 
 
 
