@@ -59,7 +59,3 @@
 ### Authencation Example
 [AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)  
 [AngularJSAuthentication](https://github.com/attilah/AngularJSAuthentication) `Use MongoDb instead of EF`  
-
-
-
-
