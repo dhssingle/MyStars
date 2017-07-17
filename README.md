@@ -26,7 +26,7 @@
 [Dapper](https://github.com/StackExchange/dapper-dot-net)  
 * [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)  
 * [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)  
-* [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) .NET 4.5+  
+* [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) ```.NET 4.5+```  
 ### UI
 [ReactiveUI](https://github.com/reactiveui/ReactiveUI)  
 [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)  
@@ -53,10 +53,10 @@
 [ILSpy](https://github.com/icsharpcode/ILSpy)  
 [XX-Net](https://github.com/XX-net/XX-Net)  
 [Lantern](https://github.com/getlantern/lantern)  
-[gitignore](https://github.com/github/gitignore)
+[gitignore](https://github.com/github/gitignore)  
 [wsl-terminal](https://github.com/goreliu/wsl-terminal)  
 [Hawk](https://github.com/ferventdesert/Hawk)  
 
 ### Authencation Example
 [AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)  
-[AngularJSAuthentication](https://github.com/attilah/AngularJSAuthentication) `Use MongoDb instead of EF`  
+[AngularJSAuthentication](https://github.com/attilah/AngularJSAuthentication) ```Use MongoDb instead of EF``` 
