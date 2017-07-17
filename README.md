@@ -22,11 +22,11 @@
 
 ### ORM
 [SqlSugar](https://github.com/sunkaixuan/SqlSugar)  
+[Chloe](https://github.com/shuxinqin/Chloe)  
 [Dapper](https://github.com/StackExchange/dapper-dot-net)  
 * [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)  
 * [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)  
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) .NET 4.5+  
-[Chloe](https://github.com/shuxinqin/Chloe)
 ### UI
 [ReactiveUI](https://github.com/reactiveui/ReactiveUI)  
 [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit)  
