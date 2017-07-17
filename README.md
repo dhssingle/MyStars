@@ -23,6 +23,7 @@
 ### ORM
 [SqlSugar](https://github.com/sunkaixuan/SqlSugar)  
 [Dapper](https://github.com/StackExchange/dapper-dot-net)  
+[Chloe.Orm](https://github.com/shuxinqin/Chloe)
 * [Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)  
 * [Dapper.SimpleCRUD](https://github.com/ericdc1/Dapper.SimpleCRUD)  
 * [Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD) .NET 4.5+
