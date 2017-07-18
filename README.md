@@ -56,6 +56,7 @@
 [gitignore](https://github.com/github/gitignore)  
 [wsl-terminal](https://github.com/goreliu/wsl-terminal)  
 [Hawk](https://github.com/ferventdesert/Hawk)  
+[NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016)
 
 ### Authencation Example
 [AngularJSAuthentication](https://github.com/tjoudeh/AngularJSAuthentication)  
