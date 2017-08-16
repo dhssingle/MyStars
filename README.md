@@ -7,7 +7,7 @@
 [Quartz.Net](https://github.com/quartznet/quartznet)  
 [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader)  
 [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor)  
-[Awesome.NET](https://github.com/quozd/awesome-dotnet)  
+ 
 [Asp.Net Mvc](https://github.com/aspnet/Mvc)  
 [AngleSharp](https://github.com/AngleSharp/AngleSharp)  
 [CsQuery](https://github.com/jamietre/CsQuery)  
@@ -35,7 +35,11 @@
 [performance-optimization](https://github.com/mspnp/performance-optimization)  
 [Computer-Science-Glossary](https://github.com/JuanitoFatas/Computer-Science-Glossary)  
 [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)  
-
+[Awesome.NET](https://github.com/quozd/awesome-dotnet)   
+[learn-regex](https://github.com/zeeshanu/learn-regex)  
+[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)  
+[awesome-vscode](https://github.com/viatsko/awesome-vscode)
+[Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)  
 ### JavaScript
 [Layer](https://github.com/sentsin/layer)  
 [jstree](https://github.com/vakata/jstree)  
