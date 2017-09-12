@@ -19,6 +19,7 @@
 [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET)  
 [AutoMapper](https://github.com/AutoMapper/AutoMapper)  
 [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle)
+[Swagger-Net](https://github.com/heldersepu/Swagger-Net)  
 
 ### ORM
 [SqlSugar](https://github.com/sunkaixuan/SqlSugar)  
