@@ -1,8 +1,11 @@
 # MyStars
 
 [RestSharp](https://github.com/restsharp/RestSharp)
+
 [Nancy](https://github.com/NancyFx/Nancy)
-[Lucene.Net ](https://github.com/apache/lucenenet)
+
+[Lucene.Net](https://github.com/apache/lucenenet)
+
 [Json.NET](https://github.com/JamesNK/Newtonsoft.Json)
 [NLog](https://github.com/NLog/NLog)
 [Quartz.Net](https://github.com/quartznet/quartznet)
