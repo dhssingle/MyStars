@@ -20,6 +20,8 @@
 [AutoMapper](https://github.com/AutoMapper/AutoMapper)
 [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle)</br>
 [Swagger-Net](https://github.com/heldersepu/Swagger-Net)</br>
+[Orchard](https://github.com/OrchardCMS/Orchard)</br>
+[OrchardCore](https://github.com/OrchardCMS/OrchardCore)
 
 ## ORM
 
