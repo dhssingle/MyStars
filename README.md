@@ -17,7 +17,7 @@
 [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis)</br>
 [Autofac](https://github.com/autofac/Autofac)</br>
 [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET)</br>
-[AutoMapper](https://github.com/AutoMapper/AutoMapper)
+[AutoMapper](https://github.com/AutoMapper/AutoMapper)</br>
 [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle)</br>
 [Swagger-Net](https://github.com/heldersepu/Swagger-Net)</br>
 [Orchard](https://github.com/OrchardCMS/Orchard)</br>
