@@ -25,6 +25,10 @@
 
 ## ORM
 
+[EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore)</br>
+
+* [EntityFramework.DynamicFilters](https://github.com/zzzprojects/EntityFramework.DynamicFilters)</br>
+
 [SqlSugar](https://github.com/sunkaixuan/SqlSugar)</br>
 [Chloe](https://github.com/shuxinqin/Chloe)</br>
 [Dapper](https://github.com/StackExchange/dapper-dot-net)</br>
@@ -48,6 +52,8 @@
 [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)</br>
 [awesome-vscode](https://github.com/viatsko/awesome-vscode)</br>
 [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines)</br>
+[Interview-Notebook](https://github.com/CyC2018/Interview-Notebook)</br>
+[hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge)</br>
 
 ## JavaScript
 
