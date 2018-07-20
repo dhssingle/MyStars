@@ -23,6 +23,7 @@
 [Orchard](https://github.com/OrchardCMS/Orchard)</br>
 [OrchardCore](https://github.com/OrchardCMS/OrchardCore)</br>
 [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning)</br>
+[AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)</br>
 
 ## ORM
 
