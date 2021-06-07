@@ -80,6 +80,7 @@
 [wsl-terminal](https://github.com/goreliu/wsl-terminal)</br>
 [Hawk](https://github.com/ferventdesert/Hawk)</br>
 [NoteHighlight2016](https://github.com/elvirbrk/NoteHighlight2016)
+[QuickLook](https://github.com/QL-Win/QuickLook)
 
 ## Authencation Example
 
